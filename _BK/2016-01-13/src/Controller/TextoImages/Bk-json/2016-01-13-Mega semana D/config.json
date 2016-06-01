@@ -1,0 +1,304 @@
+{
+	"config": {
+		"120x600": 
+		[{
+			"texto":
+			[{
+				"tamanho" 		:  18, 
+				"angulo"  		:   0, 
+				"positionX"		:  10, 
+				"positionY" 	: 253,
+				"quebraDeLinha" :   7
+			}],
+			"moeda":
+			[{
+				"tamanho" 	:  18, 
+				"angulo"  	:   0, 
+				"positionX"	:  10, 
+				"positionY" : 370
+			}],
+			"valor":
+			[{
+				"tamanho" 	:  22, 
+				"angulo"  	:   0, 
+				"positionX"	:  35, 
+				"positionY" : 370
+			}]
+		}],
+		"160x600": 
+		[{
+			"texto":
+			[{
+				"tamanho" 		:  18, 
+				"angulo"  		:   0, 
+				"positionX"		:  18, 
+				"positionY" 	: 260,
+				"quebraDeLinha" :  12
+			}],
+			"moeda":
+			[{
+				"tamanho" 	:  18, 
+				"angulo"  	:   0, 
+				"positionX"	:  18, 
+				"positionY" : 370
+			}],
+			"valor":
+			[{
+				"tamanho" 	:  22, 
+				"angulo"  	:   0, 
+				"positionX"	:  43, 
+				"positionY" : 370
+			}]
+		}],
+		"200x200": 
+		[{
+			"texto":
+			[{
+				"tamanho" 		:  14, 
+				"angulo"  		:   0, 
+				"positionX"		:   7, 
+				"positionY" 	: 125,
+				"quebraDeLinha" :  12
+			}],
+			"moeda":
+			[{
+				"tamanho" 	:  14, 
+				"angulo"  	:   0, 
+				"positionX"	: 105, 
+				"positionY" : 160
+			}],
+			"valor":
+			[{
+				"tamanho" 	:  18, 
+				"angulo"  	:   0, 
+				"positionX"	: 125, 
+				"positionY" : 160
+			}]
+		}],
+		"250x250": 
+		[{
+			"texto":
+			[{
+				"tamanho" 		:  14, 
+				"angulo"  		:   0, 
+				"positionX"		:   8, 
+				"positionY" 	: 152,
+				"quebraDeLinha" :  12
+			}],
+			"moeda":
+			[{
+				"tamanho" 	:  14, 
+				"angulo"  	:   0, 
+				"positionX"	: 130, 
+				"positionY" : 200
+			}],
+			"valor":
+			[{
+				"tamanho" 	:  18, 
+				"angulo"  	:   0, 
+				"positionX"	: 150, 
+				"positionY" : 200
+			}]
+		}],
+		"300x250": 
+		[{
+			"texto":
+			[{
+				"tamanho" 		:  14, 
+				"angulo"  		:   0, 
+				"positionX"		:  10, 
+				"positionY" 	: 155,
+				"quebraDeLinha" :  15
+			}],
+			"moeda":
+			[{
+				"tamanho" 	:  14, 
+				"angulo"  	:   0, 
+				"positionX"	: 172, 
+				"positionY" : 195
+			}],
+			"valor":
+			[{
+				"tamanho" 	:  18, 
+				"angulo"  	:   0, 
+				"positionX"	: 192, 
+				"positionY" : 195
+			}]
+		}],
+		"300x600": 
+		[{
+			"texto":
+			[{
+				"tamanho" 		:  22, 
+				"angulo"  		:   0, 
+				"positionX"		:  25, 
+				"positionY" 	: 355,
+				"quebraDeLinha" :  20
+			}],
+			"moeda":
+			[{
+				"tamanho" 	:  18, 
+				"angulo"  	:   0, 
+				"positionX"	: 165, 
+				"positionY" : 455
+			}],
+			"valor":
+			[{
+				"tamanho" 	:  22, 
+				"angulo"  	:   0, 
+				"positionX"	: 190, 
+				"positionY" : 455
+			}]
+		}],
+		"336x280": 
+		[{
+			"texto":
+			[{
+				"tamanho" 		:  18, 
+				"angulo"  		:   0, 
+				"positionX"		:  13, 
+				"positionY" 	: 175,
+				"quebraDeLinha" :  15
+			}],
+			"moeda":
+			[{
+				"tamanho" 	:  18, 
+				"angulo"  	:   0, 
+				"positionX"	: 198, 
+				"positionY" : 225
+			}],
+			"valor":
+			[{
+				"tamanho" 	:  22, 
+				"angulo"  	:   0, 
+				"positionX"	: 225, 
+				"positionY" : 225
+			}]
+		}],
+		"468x60": 
+		[{
+			"texto":
+			[{
+				"tamanho" 		:  15, 
+				"angulo"  		:   0, 
+				"positionX"		:  60, 
+				"positionY" 	:  38,
+				"quebraDeLinha" :  20
+			}],
+			"moeda":
+			[{
+				"tamanho" 	:  15, 
+				"angulo"  	:   0, 
+				"positionX"	: 360, 
+				"positionY" :  40
+			}],
+			"valor":
+			[{
+				"tamanho" 	:  19, 
+				"angulo"  	:   0, 
+				"positionX"	: 387, 
+				"positionY" :  40
+			}]
+		}],
+		"728x90": 
+		[{
+			"texto":
+			[{
+				"tamanho" 		:   18, 
+				"angulo"  		:    0, 
+				"positionX"		:  108, 
+				"positionY" 	:   55,
+				"quebraDeLinha" :   25
+			}],
+			"moeda":
+			[{
+				"tamanho" 	:  18, 
+				"angulo"  	:   0, 
+				"positionX"	: 523, 
+				"positionY" :  60
+			}],
+			"valor":
+			[{
+				"tamanho" 	:  22, 
+				"angulo"  	:   0, 
+				"positionX"	: 548, 
+				"positionY" :  60
+			}]
+		}],
+		"970x90": 
+		[{
+			"texto":
+			[{
+				"tamanho" 		:   23, 
+				"angulo"  		:    0, 
+				"positionX"		:  220, 
+				"positionY" 	:   60,
+				"quebraDeLinha" :   25
+			}],
+			"moeda":
+			[{
+				"tamanho" 	:  23, 
+				"angulo"  	:   0, 
+				"positionX"	: 740, 
+				"positionY" :  65
+			}],
+			"valor":
+			[{
+				"tamanho" 	:  25, 
+				"angulo"  	:   0, 
+				"positionX"	: 770, 
+				"positionY" :  65
+			}]
+		}],
+		"300x1050": 
+		[{
+			"texto":
+			[{
+				"tamanho" 		:   35, 
+				"angulo"  		:    0, 
+				"positionX"		:   25, 
+				"positionY" 	:  565,
+				"quebraDeLinha" :   25
+			}],
+			"moeda":
+			[{
+				"tamanho" 	:  35, 
+				"angulo"  	:   0, 
+				"positionX"	:  25, 
+				"positionY" : 710
+			}],
+			"valor":
+			[{
+				"tamanho" 	:  35, 
+				"angulo"  	:   0, 
+				"positionX"	:  80, 
+				"positionY" : 710
+			}]
+		}],
+		"970x250": 
+		[{
+			"texto":
+			[{
+				"tamanho" 		:   25, 
+				"angulo"  		:    0, 
+				"positionX"		:  655, 
+				"positionY" 	:   70,
+				"quebraDeLinha" :   25
+			}],
+			"moeda":
+			[{
+				"tamanho" 	:  35, 
+				"angulo"  	:   0, 
+				"positionX"	: 740, 
+				"positionY" : 175
+			}],
+			"valor":
+			[{
+				"tamanho" 	:  35, 
+				"angulo"  	:   0, 
+				"positionX"	: 780, 
+				"positionY" : 175
+			}]
+		}]
+	}
+}
